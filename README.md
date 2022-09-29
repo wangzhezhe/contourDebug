@@ -3,7 +3,7 @@
 ```
 $mkdir build
 $cd build
-$cmake .. -DVTKm_DIR=/home/zw/cworkspace/build/vtkm/lib/cmake/vtkm-1.8
+$cmake .. -DVTKm_DIR=/home/zw/cworkspace/build/vtkm/install/lib/cmake/vtkm-1.8
 $make
 $./test
 ```
